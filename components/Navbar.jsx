@@ -20,13 +20,13 @@ const Navbar = () => {
             About
           </Link>
           <Link
-            href="#projects"
+            href="/#projects"
             className="[text-decoration:none] relative leading-[1.69rem] text-cornsilk-700 flex items-center w-[4.19rem] shrink-0"
           >
             Projects
           </Link>
           <Link
-            href="#contact"
+            href="/#contact"
             className="[text-decoration:none] relative leading-[1.69rem] text-cornsilk-100 flex items-center w-[4.13rem] shrink-0"
           >
             Contact
