@@ -23,6 +23,7 @@ import snapgram from './snapgram.svg'
 import summiz from './summiz.svg'
 import threads from './threads.svg'
 import python from './python.svg'
+import email from './email.svg'
 import arrow from './arrow.svg'
 import contact from './contact.svg'
 import soundon from './soundon.png'
@@ -31,6 +32,7 @@ import soundoff from './soundoff.png'
 export {
     css,
     express,
+    email,
     git,
     github,
     html,
